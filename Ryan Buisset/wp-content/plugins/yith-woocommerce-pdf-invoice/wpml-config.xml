@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+        <key name="ywpi_company_details"/>
+        <key name="ywpi_invoice_notes"/>
+        <key name="ywpi_invoice_footer"/>
+    </admin-texts>
+</wpml-config>

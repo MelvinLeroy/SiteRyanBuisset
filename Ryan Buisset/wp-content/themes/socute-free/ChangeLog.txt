@@ -1,0 +1,376 @@
+------------------ VER 1.6.0 - Released: July 19 2016 ---------------
+Added: Support to WC 2.6.2
+Added: Supporto to WP 4.5.3
+Added: Supporto to PHP 7
+
+UPDATED
+
+ChangeLog.txt
+woocommerce.php
+woocommerce_2.5.x/*.*
+core/functions-core.php
+core/lib/yit/Type/Types/Imagesize.php
+core/widgets/almost_all_categories.php
+core/widgets/contact_info.php
+core/widgets/last_tweets.php
+core/widgets/testimonials.php
+languages/yit.pot
+theme/woocommerce.php
+theme/widgets/contact_info.php
+theme/widgets/testimonials.php
+theme/widgets/YIT_Widget_Cart.php
+woocommerce/content-product.php
+woocommerce/content-product_cat.php
+woocommerce/single-product/related.php
+woocommerce/style.css
+
+REMOVED
+woocommerce_2.4.x/*.*
+woocommerce/single-product/review.php
+core/lib/yit/Type/Types/ImageSize.php
+
+------------------ VER 1.5.2 - Released: Feb 24 2016 ---------------
+Fixed: Images on header settings doesn't work
+
+UPDATED
+
+ChangeLog.txt
+style.css
+core/assets/js/post-type-unlimited.js
+core/assets/js/types.js
+core/templates/admin/metaboxes/types/images.php
+theme/hooks.php
+theme/templates/header/slider.php
+
+------------------ VER 1.5.1 - Released: Feb 12 2016 ---------------
+Added: WooCommerce 2.5.2 support
+
+UPDATED
+
+ChangeLog.txt
+style.css
+woocommerce/content-product_cat.php
+
+------------------ VER 1.5.0 - Released: Jan 29 2016 ---------------
+Added: WordPress 4.4 support
+Added: WooCommerce 2.5.1 support
+Added: WooCommerce 2.4.13 support
+
+UPDATED
+
+buy-premium.php
+ChangeLog.txt
+style.css
+core/functions-template.php
+core/hooks.php
+core/templates/admin/panel/header.php
+core/templates/admin/panel/premium.php
+core/yit/Css.php
+languages/yit.pot
+theme/assets/js/woocommerce.js
+theme/config.php
+theme/functions-template.php
+theme/functions-theme.php
+theme/plugins.php
+theme/templates/header/head.php
+theme/woocommerce.php
+woocommerce/content-product.php
+woocommerce/content-product_cat.php
+woocommerce/loop/add-to-cart.php
+woocommerce/single-product/add-to-cart/variable.php
+woocommerce/single-product/price.php
+woocommerce/single-product/review.php
+woocommerce_2.4.x/*.*
+
+------------------ VER 1.4.9 - Released: Oct 26 2015 ---------------
+Fixed: "yit_enqueue_style" function
+
+UPDATED
+
+ChangeLog.txt
+core/functions-core.php
+core/yit/CPT_Unlimited.php
+core/yit/Css.php
+core/yit/Font.php
+core/yit/Shortcodes.php
+theme/functions-template.php
+theme/shortcodes.php
+theme/templates/header/head.php
+theme/widgets.php
+theme/woocommerce.php
+
+------------------ VER 1.4.7 - Released: Aug 26 2015 ---------------
+Added: WooCommerce 2.4.6 support
+Added: WordPress 4.3 support
+
+UPDATED
+
+style.css
+ChangeLog.txt
+core/assets/css/panel.css
+core/lib/yit/Type/Types/ImageSize.php
+core/widgets/almost_all_categories.php
+core/widgets/contact_info.php
+core/widgets/last_tweets.php
+core/widgets/testimonials.php
+theme/templates/shortcodes/section-services.php
+theme/widgets/YIT_Widget_Cart.php
+theme/widgets/contact_info.php
+theme/widgets/testimonials.php
+theme/woocommerce.php
+theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php
+woocommerce/content-product.php
+woocommerce/content-product_cat.php
+woocommerce/single-product/add-to-cart/variable.php
+woocommerce/single-product/tabs/tabs.php
+woocommerce/style.css
+woocommerce_2.3.x/*.*
+
+ADDED
+
+woocommerce/single-product/add-to-cart/yit-single-variation.php
+
+
+------------------ VER 1.4.6 - Released: Jul 24 2015 ---------------
+Added: WooCommerce 2.3.13 support
+
+UPDATED
+
+buy-premium.php
+ChangeLog.txt
+style.css
+core/assets/images/buy-premium.png
+core/assets/images/dismiss.png
+core/assets/images/premium/add-to-cart.png
+core/assets/images/premium/buy-now.png
+core/assets/images/premium/live-preview.png
+core/assets/images/walter-message.png
+core/templates/admin/panel/premium.php
+core/yit/Dashboard.php
+
+------------------ VER 1.4.5 - Released: Jul 02 2015 ---------------
+Added: YITH WooCommerce Multi Vendor plugin support
+Added: YITH Live Chat plugin support
+Fixed: YITH WooCommerce Advanced Reviews plugin style
+Fixed: YITH Woocommerce Request A Quote button style
+Fixed: Plugins list
+
+UPDATED
+style.css
+theme/plugins.php
+woocommerce/style.css
+
+------------------ VER 1.4.4 - Released: Apr 24 2015 -------------
+Added: Wordpress 4.2 compatibility
+Added: WooCommerce 2.3.8 support
+Fixed: Wp security issue
+
+UPDATED
+ChangeLog.txt
+style.css
+core/lib/yit/Walker/Walker_Nav_Menu_Edit.php
+core/yit/CPT_Unlimited.php
+languages/default.po
+languages/yit.pot
+woocommerce/global/list-or-grid.php
+woocommerce/single-product/add-to-cart/grouped.php
+woocommerce/single-product/add-to-cart/simple.php
+woocommerce_2.0.x/shop/list-or-grid.php
+woocommerce_2.1.x/shop/list-or-grid.php
+woocommerce_2.2.x/global/list-or-grid.php
+
+------------------ VER 1.4.3 - Released: Apr 11, 2015 -------------
+Added: Woocommerce 2.3.7 support
+Added: YITH WooCommerce Wishlist
+Added: YITH WooCommerce Zoom Magnifier
+Added: YITH Woocomerce Ajax Search
+Added: YITH Woocomerce Order Tracking
+Added: YITH Woocomerce Pdf Invoice
+Added: YITH Woocommerce Advanced Reviews
+Added: YITH WooCommerce Cart Message
+Added: Yith Woocomerce Stripe
+Added: Yith Woocomerce Authorize.net
+Added: Yith Woocomerce Review Reminder
+Removed: "core/yit/Metabox.php" file
+
+UPDATED
+
+ChangeLog.txt
+style.css
+core/assets/css/panel.css
+core/assets/images/walter-message.png
+core/lib/vendors/tgm-plugin-activation
+core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php
+core/yit/Metaboxes.php
+core/yit/Plugins.php
+theme/functions-theme.php
+theme/plugins.php
+theme/woocommerce.php
+woocommerce/global/breadcrumb.php
+woocommerce/single-product/review.php
+woocommerce/style.css
+
+REMOVED
+
+core/yit/Metabox.php
+
+
+------------------ VER 1.4.2 - Released: Mar 12, 2015 -------------
+Added: Woocommerce 2.3.5 support
+
+UPDATED
+
+ChangeLog.txt
+style.css
+woocommerce/single-product/review.php
+woocommerce/style.css
+
+------------------ VER 1.4.1 - Released: 19-02-2015 ---------------
+Added: Wordpress 4.1.1 Support
+Fixed: Mini Search bug
+
+UPDATED
+theme/widgets/search_mini.php
+
+------------------ VER 1.4.0 - Released: 17-02-2015 ---------------
+Added: Woocommerce 2.3.0 support
+Added: Yith Woocommerce Wishlist 2.0 *note you must remove embedded wishlist to use it.
+
+UPDATED
+ChangeLog.txt
+core/assets/js/unminified/types.js
+core/assets/js/types.js
+core/functions-core.php
+languages/default.po
+languages/yit.pot
+theme/assets/images/ajax-loader.gif
+theme/assets/images/ajax-loader@2x.gif
+theme/assets/js/unminified/woocommerce_2.3.js
+theme/assets/js/woocommerce_2.3.js
+theme/widgets/search_mini.php
+theme/woocommerce.php
+woocommerce/*
+
+ADDED
+woocommerce_2.2.x/*
+
+------------------ VER 1.3.5 - Released: 02-02-2015 ---------------
+Added: Woocommerce 2.2.11 support
+
+UDPATED
+
+style.css
+languages/*.*
+
+
+------------------ VER 1.3.4 - Released: 12-03-2014 ---------------
+Added: Woocommerce 2.2.8 support
+Fixed: Duplicated og tag with Wordpress Seo plugin
+Fixed: Image.php issue with W3 Total Cache plugin
+
+UPDATED
+
+ChangeLog.txt
+Purchase-Now.url
+core/functions-template.php
+core/templates/admin/panel/header.php
+core/templates/admin/panel/premium.php
+core/yit/Image.php
+languages/*.*
+
+
+
+------------------ VER 1.3.3 - Released: 10-14-2014 ---------------
+Added: Woocommerce 2.2.6 support
+
+UPDATED:
+ChangeLog.txt
+style.css
+socute-child/style.css
+core/templates/admin/panel/premium.php
+theme/functions-theme.php
+
+------------------ VER 1.3.2 - Released: 10-07-2014 ---------------
+Fixed: Product back flip issue
+Fixed: "The settings of this image size have been disabled because its values are being overwritten by a filter." because of new WooCommerce 2.2.x
+Fixed: YIW links problem
+
+UPDATED:
+ChangeLog.txt
+core/templates/admin/panel/premium.php
+theme/functions-theme.php
+theme/woocommerce.php
+woocommerce/single-product/product-image.php
+woocommerce/style.css
+woocommerce_2.0.x/style.css
+woocommerce_2.1.x/style.css
+
+------------------ VER 1.3.1 - Released: 09-17-2014 ---------------
+Added: Woocommerce 2.2.3 support
+Added: Shotcode [line]
+Fixed: ie version detect function
+Fixed: Rich Snippet metadata
+Fixed: Wishlist compatibility
+Fixed: Cart Layout
+Fixed: Toggle Menu on shop page
+Fixed: Products cross sell wrong position on cat page
+Fixed: Firefox and double spinner for number field
+Fixed: Class Font error, prevent undefined index
+Removed: Custom post type tags from wpml-config.xml
+
+------------------ VER 1.2.1 - Released: 03-25-2014 ---------------
+Fixed: Empty line before php tag on top of the file.
+Fixed: Product slider visual bug
+Fixed: Shipping - Billing fields style
+
+Updated:
+css/responsive.css
+theme/assets/css/widgets.css
+theme/woocommerce.php
+woocommerce/global/wrapper-end.php
+woocommerce/global/wrapper-start.php
+woocommerce/single-product/add-to-cart/grouped.php
+woocommerce/single-product/add-to-cart/variable.php
+woocommerce/single-product/product-attributes.php
+woocommerce/single-product/product-image.php
+woocommerce/single-product/product-thumbnails.php
+woocommerce/style.css
+
+------------------ VER 1.2.0 - Released: 02-18-2014 ---------------
+Added: Compatibility to Woocommerce 2.1.2
+Fixed: Wrong Marketplace
+
+Updated:
+style.css
+theme/woocommerce.php
+woocommerce/*
+woocommerce_2.0.x/*
+languages/default.po
+languages/yit.pot
+ChangeLog.txt
+------------------ VER 1.1.0 - Released: 01-07-2014 ---------------
+Added Support to WP 3.8
+
+Updated:
+ChangeLog.txt
+cache
+style.css
+core/assets/css/metaboxes.css
+core/assets/css/panel.css
+core/yit/CPT_Unlimited.php
+core/yit/Services.php
+core/yit/Testimonial.php
+
+------------------ VER 1.0.1 ---------------
+Fixed: Various Bug
+
+Updated:
+ChangeLog.txt
+languages/default.po
+languages/yit.pot
+core/functions-core.php
+theme/tr.php
+
+------------------ VER 1.0.0 ---------------
+Initial Release
+

@@ -1,0 +1,475 @@
+# Copyright (C) 2015 YIThemes
+# This file is distributed under the same license as the YITH Plugin Starter package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Badge Management\n"
+"Report-Msgid-Bugs-To: Your Inspiration Themes <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2016-05-17 18:11+0200\n"
+"PO-Revision-Date: 2016-04-20 11:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <info@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: badge-styles/advanced-badge-styles.php:519
+#: badge-styles/advanced-badge-styles.php:772
+msgid "DISCOUNT"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:81 class.yith-wcbm-admin.php:387
+msgid "none"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:103
+msgid "Schedule"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:107
+msgid "Starting Date"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:114
+msgid "Ending Date"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:135 plugin-options/category-options.php:48
+msgid "Category Badges"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:136
+#: plugin-options/shipping-class-options.php:45
+msgid "Shipping Class Badges"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:349
+msgctxt "Admin:title of column in products table"
+msgid "Badge"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:399
+msgid "Select Badge"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:402
+msgid "— No Change —"
+msgstr ""
+
+#: class.yith-wcbm-admin-premium.php:403 plugin-options/advanced-options.php:10
+#: plugin-options/category-options.php:8
+#: plugin-options/dynamic-pricing-options.php:9
+#: plugin-options/shipping-class-options.php:8
+msgid "None"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:133
+msgid "Your Inspiration Themes"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:137 class.yith-wcbm-admin.php:193
+msgid "Plugin Documentation"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:141
+msgid "Plugin Site"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:145
+msgid "Live Demo"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:167 class.yith-wcbm-admin.php:215
+msgid "Settings"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:169 class.yith-wcbm-admin.php:216
+msgid "Premium Version"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:224 class.yith-wcbm-admin.php:225
+msgid "Badge Management"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:270
+msgid "Badges"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:271
+msgid "Badge"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:272
+msgid "Add Badge"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:273
+msgid "Add new Badge"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:274
+msgid "Edit Badge"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:275
+msgid "View Badge"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:276
+msgid "Badge not found"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:277
+msgid "Badge not found in trash"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:322
+msgid "Badge Options"
+msgstr ""
+
+#: class.yith-wcbm-admin.php:369
+msgid "Product Badge"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:28 functions.yith-wcbm.php:27
+msgid "Text Badge"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:29
+msgid "CSS Badge"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:30 functions.yith-wcbm.php:28
+msgid "Image Badge"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:31
+msgid "Advanced Badge"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:47 functions.yith-wcbm.php:38
+msgid "Text Options"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:51 functions.yith-wcbm-premium.php:198
+#: functions.yith-wcbm.php:42
+msgid "Text"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:59 functions.yith-wcbm-premium.php:215
+#: functions.yith-wcbm-premium.php:287 functions.yith-wcbm.php:50
+msgid "Text Color"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:68
+msgid "Font Size (pixel)"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:76
+msgid "Line Height (pixel)"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:81
+msgid "[set -1 to set it equal to height of the badge]"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:89 functions.yith-wcbm.php:61
+msgid "Style Options"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:93 functions.yith-wcbm.php:65
+msgid "Background Color"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:102 functions.yith-wcbm.php:74
+msgid "Size (pixel)"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:116 functions.yith-wcbm.php:88
+msgid "Width"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:119 functions.yith-wcbm.php:91
+msgid "Height"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:127
+msgid "Border Radius (pixel)"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:152
+msgid "Padding (pixel)"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:179
+msgid "Select the CSS Badge"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:194
+msgid "CSS Options"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:206 functions.yith-wcbm-premium.php:278
+msgid "Badge Color"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:229 functions.yith-wcbm.php:103
+msgid "Select the Image Badge"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:248 functions.yith-wcbm-premium.php:429
+msgid "Upload"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:259
+msgid "Select the Advanced Badge"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:274
+msgid "Advanced Options"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:296
+msgid "This Advanced Badge is not configurable."
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:304
+msgid "Opacity and position"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:308
+msgid "Opacity"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:316
+msgid "[0:transparent | 100:opaque]"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:321
+msgid "Anchor Point"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:325 functions.yith-wcbm.php:129
+msgid "top-left"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:327 functions.yith-wcbm.php:130
+msgid "top-right"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:329 functions.yith-wcbm.php:131
+msgid "bottom-left"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:331 functions.yith-wcbm.php:132
+msgid "bottom-right"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:335
+msgid "[for Drag and Drop positioning]"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:348
+msgid "Position (pixel or percentual)"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:359 functions.yith-wcbm-premium.php:381
+msgid "Top"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:360 functions.yith-wcbm-premium.php:382
+msgid "Bottom"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:361 functions.yith-wcbm-premium.php:383
+msgid "Left"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:362 functions.yith-wcbm-premium.php:384
+msgid "Right"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:369
+msgid "Center Positioning"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:385
+msgid "Center"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:397 functions.yith-wcbm.php:141
+msgid "Preview"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:399
+msgid "Use Drag and Drop for positioning"
+msgstr ""
+
+#: functions.yith-wcbm-premium.php:428
+msgid "Upload Custom Image"
+msgstr ""
+
+#: functions.yith-wcbm.php:121 functions.yith-wcbm.php:125
+msgid "Position"
+msgstr ""
+
+#: includes/compatibility/class.yith-wcbm-dynamic-pricing-compatibility.php:104
+msgid "Dynamic Pricing"
+msgstr ""
+
+#: init.php:50
+msgid ""
+"YITH WooCommerce Badge Management is enabled but not effective. It requires "
+"Woocommerce in order to work."
+msgstr ""
+
+#: plugin-options/advanced-options.php:43 plugin-options/settings-options.php:8
+msgid "General Options"
+msgstr ""
+
+#: plugin-options/advanced-options.php:51 plugin-options/settings-options.php:16
+msgid "Hide \"On sale\" badge"
+msgstr ""
+
+#: plugin-options/advanced-options.php:53 plugin-options/settings-options.php:18
+msgid "Select to hide the default Woocommerce \"On sale\" badge."
+msgstr ""
+
+#: plugin-options/advanced-options.php:59 plugin-options/settings-options.php:24
+msgid "Hide in sidebars"
+msgstr ""
+
+#: plugin-options/advanced-options.php:61 plugin-options/settings-options.php:26
+msgid "Select to hide the badges in sidebars and widgets."
+msgstr ""
+
+#: plugin-options/advanced-options.php:67 plugin-options/settings-options.php:32
+msgid "Product Badge overrides default on sale badge"
+msgstr ""
+
+#: plugin-options/advanced-options.php:69 plugin-options/settings-options.php:34
+msgid ""
+"Select if you want to hide WooCommerce default \"On Sale\" badge when the product "
+"has another badge"
+msgstr ""
+
+#: plugin-options/advanced-options.php:79
+msgid "Recent Products"
+msgstr ""
+
+#: plugin-options/advanced-options.php:86
+msgid "Badge for Recent products"
+msgstr ""
+
+#: plugin-options/advanced-options.php:88
+msgid "Select the badge you want to apply to all recent products."
+msgstr ""
+
+#: plugin-options/advanced-options.php:96
+msgid "Newer than"
+msgstr ""
+
+#: plugin-options/advanced-options.php:98
+msgid "Show the badge for products that are newer than X days."
+msgstr ""
+
+#: plugin-options/advanced-options.php:110
+msgid "On Sale [Automatic]"
+msgstr ""
+
+#: plugin-options/advanced-options.php:117
+msgid "On sale Badge"
+msgstr ""
+
+#: plugin-options/advanced-options.php:119
+msgid "Select the Badge for products on sale."
+msgstr ""
+
+#: plugin-options/advanced-options.php:132
+msgid "Featured [Automatic]"
+msgstr ""
+
+#: plugin-options/advanced-options.php:139
+msgid "Featured badge"
+msgstr ""
+
+#: plugin-options/advanced-options.php:141
+msgid "Select the badge for featured products."
+msgstr ""
+
+#: plugin-options/advanced-options.php:154
+msgid "Out of stock [Automatic]"
+msgstr ""
+
+#: plugin-options/advanced-options.php:161
+msgid "Out of stock Badge"
+msgstr ""
+
+#: plugin-options/advanced-options.php:163
+msgid "Select the Badge for products out of stock."
+msgstr ""
+
+#: plugin-options/advanced-options.php:176
+msgid "Single Product"
+msgstr ""
+
+#: plugin-options/advanced-options.php:183
+msgid "Hide on Single Product"
+msgstr ""
+
+#: plugin-options/advanced-options.php:185
+msgid "Select to hide badges on Single Product Page."
+msgstr ""
+
+#: plugin-options/category-options.php:63
+#, php-format
+msgid "Select the Badge for all products of category %s"
+msgstr ""
+
+#: plugin-options/dynamic-pricing-options.php:31
+msgid "Dynamic Pricing Settings"
+msgstr ""
+
+#: plugin-options/dynamic-pricing-options.php:32
+#, php-format
+msgid ""
+"Select the Badge for Dynamic Pricing Rules. Please Note: you should create rules "
+"in %s before"
+msgstr ""
+
+#: plugin-options/dynamic-pricing-options.php:36
+msgid "Dynamic Pricing Badges"
+msgstr ""
+
+#: plugin-options/dynamic-pricing-options.php:50
+#, php-format
+msgid "Select the Badge for all products of Dynamic Pricing Rule %s"
+msgstr ""
+
+#: plugin-options/shipping-class-options.php:59
+#, php-format
+msgid "Select the Badge for all products of shipping class \"%s\""
+msgstr ""
+
+#: templates/advanced_sale_badges.php:66
+msgid "Sale"
+msgstr ""
+
+#: templates/advanced_sale_badges.php:68
+msgid "Off"
+msgstr ""
+
+#: templates/advanced_sale_badges.php:71
+msgid "Save"
+msgstr ""

@@ -1,0 +1,76 @@
+table.shop_table tr.order td.order-actions a.print-invoice {
+    background-image: url('../images/invoice_view.png');
+    background-repeat: no-repeat;
+    background-position: 5px center;
+    text-indent: 15px;
+}
+
+#yith-pdf-invoice-box div.invoice-information a {
+    background-repeat: no-repeat;
+    background-position: 5px center;
+    text-indent: 20px;
+}
+
+#yith-pdf-invoice-box div.invoice-information a.ywpi_create_invoice {
+    background-image: url('../images/invoice_add.png');
+}
+
+#yith-pdf-invoice-box div.invoice-information a.ywpi_view_invoice {
+    background-image: url('../images/invoice_view.png');
+}
+
+#yith-pdf-invoice-box div.invoice-information a.ywpi_cancel_invoice {
+    background-image: url('../images/invoice_cancel.png');
+}
+
+#yith-pdf-invoice-box div.invoice-information a.ywpi_create_shipping_list {
+    background-image: url('../images/shipping_list_add.png');
+}
+
+#yith-pdf-invoice-box div.invoice-information a.ywpi_view_shipping_list {
+    background-image: url('../images/shipping_list_view.png');
+}
+
+#yith-pdf-invoice-box div.invoice-information a.ywpi_cancel_shipping_list {
+    background-image: url('../images/shipping_list_cancel.png');
+}
+
+.widefat .column-order_actions a.button.ywpi_create_invoice,
+.widefat .column-order_actions a.button.ywpi_view_invoice,
+.widefat .column-order_actions a.button.ywpi_create_shipping_list,
+.widefat .column-order_actions a.button.ywpi_view_shipping_list {
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.widefat .column-order_actions a.button.ywpi_create_invoice {
+    background-image: url('../images/invoice_add.png');
+}
+
+.widefat .column-order_actions a.button.ywpi_view_invoice {
+    background-image: url('../images/invoice_view.png');
+}
+
+.widefat .column-order_actions a.button.ywpi_create_shipping_list {
+    background-image: url('../images/shipping_list_add.png');
+}
+
+.widefat .column-order_actions a.button.ywpi_view_shipping_list {
+    background-image: url('../images/shipping_list_view.png');
+}
+
+.widefat .column-order_actions a.button.ywpi_buttons {
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    padding: 0 !important;
+    height: 2em !important;
+    width: 2em;
+
+    position: relative;
+}
+
+.widefat .column-order_actions a.button.ywpi_buttons:after {
+    display: none;
+}
+

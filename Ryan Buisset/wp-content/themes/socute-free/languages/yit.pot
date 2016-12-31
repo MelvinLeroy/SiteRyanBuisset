@@ -1,0 +1,3765 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Socute\n"
+"POT-Creation-Date: 2016-07-19 14:41+0200\n"
+"PO-Revision-Date: 2016-01-29 11:30+0100\n"
+"Last-Translator: Giustino Borzacchiello <giustinob@gmail.com>\n"
+"Language-Team: Your Inspiration Themes <support@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../core/Yit.php:71
+msgid ""
+"You are using an older version of Wordpress. \r\n"
+"\t\t\t\t\t\t\t   This theme should not work properly. \r\n"
+"\t\t\t\t\t\t\t   Please update your <strong>Wordpress</strong> version to "
+"the \r\n"
+"\t\t\t\t\t\t\t   latest as soon as possible."
+msgstr ""
+
+#: ../core/functions-core.php:1153
+msgid "Error. Unable to delete the cache!"
+msgstr ""
+
+#: ../core/functions-core.php:1170
+msgid "Cache deleted successfully!"
+msgstr ""
+
+#: ../core/functions-core.php:1176
+msgid "Theme updated successfully!"
+msgstr ""
+
+#: ../core/functions-core.php:1238
+msgid "Theme Options resetted successfully!"
+msgstr ""
+
+#: ../core/functions-core.php:1240
+msgid "Error. Unable to reset the theme options!"
+msgstr ""
+
+#: ../core/functions-core.php:1343
+msgid "Custom Sidebars deleted successfully!"
+msgstr ""
+
+#: ../core/functions-core.php:1345
+msgid "Error. Unable to delete custom sidebars!"
+msgstr ""
+
+#: ../core/functions-core.php:1387
+msgid " images deleted!"
+msgstr ""
+
+#: ../core/functions-core.php:1389
+msgid "Error. Unable to delete the images!"
+msgstr ""
+
+#: ../core/functions-core.php:1408 ../core/functions-core.php:1482
+msgid ""
+"Are you sure you want to install sample data? All current data entered on "
+"your site will be overwritten/lost"
+msgstr ""
+
+#: ../core/functions-core.php:1459
+msgid "Sample data installed correctly!"
+msgstr ""
+
+#: ../core/functions-core.php:1461
+msgid "Error. Unable to install sample data!"
+msgstr ""
+
+#: ../core/functions-core.php:1464
+msgid "Error. The file "
+msgstr ""
+
+#: ../core/functions-template.php:174
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../core/functions-template.php:529
+msgid "Home Page"
+msgstr ""
+
+#: ../core/functions-template.php:554
+#, php-format
+msgid "Archive by category \"%s\""
+msgstr ""
+
+#: ../core/functions-template.php:612
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: ../core/functions-template.php:614
+#, php-format
+msgid "Posts tagged \"%s\""
+msgstr ""
+
+#: ../core/functions-template.php:619
+#, php-format
+msgid "Articles posted by %s"
+msgstr ""
+
+#: ../core/functions-template.php:621 ../theme/templates/404/404.php:22
+#: ../theme/templates/404/404.php:35 ../woocommerce/global/breadcrumb.php:169
+#: ../woocommerce_2.5.x/global/breadcrumb.php:169
+msgid "Error 404"
+msgstr ""
+
+#: ../core/functions-template.php:623
+msgid "Home"
+msgstr ""
+
+#: ../core/functions-template.php:630 ../woocommerce/global/breadcrumb.php:225
+#: ../woocommerce_2.5.x/global/breadcrumb.php:225
+msgid "Page"
+msgstr ""
+
+#: ../core/functions-template.php:882
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../core/functions-template.php:883
+msgid "Choose if you want to show a sidebar in Shop pages and where."
+msgstr ""
+
+#: ../core/functions-template.php:897
+msgid "Products Detail Sidebar"
+msgstr ""
+
+#: ../core/functions-template.php:898
+msgid ""
+"Choose if you want to show a sidebar in products detail pages and where."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:175
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:176
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:177
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:94
+msgid "Required"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+#: ../core/yit/Shortcodes.php:252
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:196
+msgid "Type"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Bgpreview.php:42
+msgid "Select a background"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Bgpreview.php:60
+#: ../core/lib/yit/Type/Types/Colorpicker.php:37
+#: ../core/lib/yit/Type/Types/Customsidebar.php:61
+#: ../core/lib/yit/Type/Types/Number.php:36
+#: ../core/lib/yit/Type/Types/Onoff.php:37
+#: ../core/lib/yit/Type/Types/Select.php:46
+#: ../core/lib/yit/Type/Types/Selecticon.php:65
+#: ../core/lib/yit/Type/Types/Sidebarlayout.php:50
+#: ../core/lib/yit/Type/Types/Slider.php:47
+#: ../core/lib/yit/Type/Types/Typography.php:34
+#, php-format
+msgid "(Default: %s)"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Customsidebar.php:37
+#: ../core/lib/yit/Type/Types/Sidebarlayout.php:36
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:26
+msgid "Left sidebar"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Customsidebar.php:40
+#: ../core/lib/yit/Type/Types/Sidebarlayout.php:39
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:29
+msgid "No sidebar"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Customsidebar.php:40
+#: ../core/lib/yit/Type/Types/Sidebarlayout.php:39
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:29
+msgid "No sideabr"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Customsidebar.php:43
+#: ../core/lib/yit/Type/Types/Sidebarlayout.php:42
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:32
+msgid "Right sidebar"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Customsidebar.php:48
+#: ../core/templates/admin/metaboxes/types/sidebar-layout.php:35
+msgid "Choose a sidebar"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Imagesize.php:59
+msgid "Hard Crop?"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Onoff.php:37
+msgid "On"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Onoff.php:37
+msgid "Off"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Selecticon.php:57
+msgid "or upload your own icon:"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Selecticon.php:59
+#: ../core/lib/yit/Type/Types/Upload.php:35
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:190
+#: ../core/templates/admin/metaboxes/types/upload.php:23
+#: ../woocommerce/admin/custom-onsale.php:37
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:37
+msgid "Upload"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Sidebarlist.php:32
+#: ../core/yit/CPT_Unlimited.php:357 ../core/yit/CPT_Unlimited.php:358
+#: ../core/yit/CPT_Unlimited.php:369 ../core/yit/Panel.php:291
+#: ../core/yit/Panel.php:292 ../woocommerce/single-product/tabs/tabs.php:31
+#: ../woocommerce_2.5.x/single-product/tabs/tabs.php:31
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Sidebarlist.php:46
+#: ../core/templates/admin/post-type-unlimited/settings-items.php:31
+msgid "Delete"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Sidebarlist.php:52
+#, php-format
+msgid "No %s created!"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:44
+#: ../core/templates/admin/metaboxes/types/typography.php:41
+msgid "px"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:45
+#: ../core/templates/admin/metaboxes/types/typography.php:42
+msgid "em"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:46
+#: ../core/templates/admin/metaboxes/types/typography.php:43
+msgid "pt"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:47
+#: ../core/templates/admin/metaboxes/types/typography.php:44
+msgid "rem"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:59
+#: ../core/templates/admin/metaboxes/types/typography.php:58
+#: ../core/templates/admin/metaboxes/types/typography.php:147
+#: ../core/templates/admin/metaboxes/types/typography.php:211
+msgid "Web fonts"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:71
+#: ../core/templates/admin/metaboxes/types/typography.php:70
+msgid "Google fonts"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:94
+#: ../core/templates/admin/metaboxes/types/typography.php:95
+msgid "Regular"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:95
+#: ../core/templates/admin/metaboxes/types/typography.php:96
+msgid "Bold"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:96
+msgid "Extra bold"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:97
+#: ../core/templates/admin/metaboxes/types/typography.php:97
+msgid "Italic"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:98
+#: ../core/templates/admin/metaboxes/types/typography.php:98
+msgid "Italic bold"
+msgstr ""
+
+#: ../core/lib/yit/Type/Types/Typography.php:111
+msgid "Click to preview"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:72
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:76
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:117
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:126
+msgid "URL"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:133
+msgid "Navigation Label"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:139
+msgid "Title Attribute"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:146
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:151
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:157
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:163
+#: ../core/yit/Services.php:121 ../core/yit/Shortcodes.php:270
+#: ../core/yit/Shortcodes.php:381
+msgid "Description"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:165
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:175
+msgid "Customize menu"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:203
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:216
+#: ../core/templates/admin/metaboxes/types/customtabs.php:39
+#: ../core/templates/admin/metaboxes/types/customtabs.php:83
+#: ../theme/metaboxes.php:116
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:15
+msgid "Remove"
+msgstr ""
+
+#: ../core/lib/yit/Walker/Walker_Nav_Menu_Edit.php:217
+msgid "Cancel"
+msgstr ""
+
+#: ../core/metaboxes.php:17
+msgid "Page settings"
+msgstr ""
+
+#: ../core/metaboxes.php:18
+msgid "Post settings"
+msgstr ""
+
+#: ../core/metaboxes.php:19
+msgid "Other Testimonial info"
+msgstr ""
+
+#: ../core/metaboxes.php:20 ../core/metaboxes.php:103
+msgid "Extra content"
+msgstr ""
+
+#: ../core/metaboxes.php:25 ../core/yit/Shortcodes.php:295
+#: ../core/yit/Shortcodes.php:396
+msgid "Show title"
+msgstr ""
+
+#: ../core/metaboxes.php:26
+msgid "Show or not the title of the page."
+msgstr ""
+
+#: ../core/metaboxes.php:28 ../core/metaboxes.php:29 ../core/metaboxes.php:35
+#: ../core/metaboxes.php:36 ../core/metaboxes.php:42 ../core/metaboxes.php:43
+#: ../core/metaboxes.php:88 ../core/metaboxes.php:89 ../core/metaboxes.php:95
+#: ../core/yit/Submenu/Theme_option.php:55
+#: ../core/yit/Submenu/Theme_option.php:65
+#: ../core/yit/Submenu/Theme_option.php:68 ../theme/metaboxes.php:28
+#: ../theme/metaboxes.php:35
+#: ../theme/panel/theme-options/general-settings.php:33
+#: ../theme/panel/theme-options/misc.php:43
+msgid "Settings"
+msgstr ""
+
+#: ../core/metaboxes.php:32
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:51
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:58
+msgid "Show breadcrumb"
+msgstr ""
+
+#: ../core/metaboxes.php:33
+msgid "Show or not the breadcrumb."
+msgstr ""
+
+#: ../core/metaboxes.php:39
+msgid "Sidebar"
+msgstr ""
+
+#: ../core/metaboxes.php:40
+msgid "Select the sidebar layout and the sidebar to use."
+msgstr ""
+
+#: ../core/metaboxes.php:49
+msgid "Use static image"
+msgstr ""
+
+#: ../core/metaboxes.php:50
+msgid "Set YES if you want a static header."
+msgstr ""
+
+#: ../core/metaboxes.php:53 ../core/metaboxes.php:60 ../core/metaboxes.php:67
+#: ../core/metaboxes.php:79 ../theme/metaboxes.php:38 ../theme/metaboxes.php:45
+#: ../theme/metaboxes.php:60 ../theme/metaboxes.php:66
+#: ../theme/metaboxes.php:79 ../theme/metaboxes.php:95
+#: ../theme/metaboxes.php:106 ../theme/metaboxes.php:108
+#: ../theme/metaboxes.php:119 ../theme/panel/theme-options/misc.php:44
+msgid "Header"
+msgstr ""
+
+#: ../core/metaboxes.php:56
+msgid "Static image"
+msgstr ""
+
+#: ../core/metaboxes.php:57
+msgid ""
+"Upload here the image to use for the static header, only if you have set to "
+"YES the option above."
+msgstr ""
+
+#: ../core/metaboxes.php:63
+msgid "Static image Link"
+msgstr ""
+
+#: ../core/metaboxes.php:64
+msgid "The URL where the fixed image will link."
+msgstr ""
+
+#: ../core/metaboxes.php:70
+msgid "Static image target"
+msgstr ""
+
+#: ../core/metaboxes.php:71
+msgid "How to open the link of the static image."
+msgstr ""
+
+#: ../core/metaboxes.php:73 ../theme/metaboxes.php:72 ../theme/metaboxes.php:85
+#: ../theme/metaboxes.php:101 ../theme/metaboxes.php:114
+msgid "Default"
+msgstr ""
+
+#: ../core/metaboxes.php:74
+msgid "Parent frameset"
+msgstr ""
+
+#: ../core/metaboxes.php:75
+msgid "Full body of the window"
+msgstr ""
+
+#: ../core/metaboxes.php:76
+msgid "In a new window"
+msgstr ""
+
+#: ../core/metaboxes.php:85
+msgid "Label"
+msgstr ""
+
+#: ../core/metaboxes.php:86
+msgid "Insert the label used for testimonial if Website Url is set."
+msgstr ""
+
+#: ../core/metaboxes.php:92
+msgid "Web Site URL"
+msgstr ""
+
+#: ../core/metaboxes.php:93
+msgid "Insert the url referred to Testimonial."
+msgstr ""
+
+#: ../core/metaboxes.php:101
+msgid "Put here the content you want to show after content and sidebar."
+msgstr ""
+
+#: ../core/templates/admin/addshortcodes/code.php:2
+msgid "This is a special shortcode. Insert shortcode for configure it."
+msgstr ""
+
+#: ../core/templates/admin/addshortcodes/select.php:6
+msgid "Choose your option"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/categories.php:37
+msgid "No categories."
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/categories.php:43
+msgid "+ Add New Category"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/customtabs.php:30
+msgid "Close all"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/customtabs.php:30
+msgid "Expand all"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/customtabs.php:48
+#: ../core/templates/admin/metaboxes/types/customtabs.php:91
+#: ../core/yit/CPT_Unlimited.php:436 ../theme/templates/comments/markup.php:74
+#: ../theme/templates/comments/markup.php:75
+msgid "Name"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/customtabs.php:54
+#: ../core/templates/admin/metaboxes/types/customtabs.php:96
+msgid "Value"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/customtabs.php:55
+#: ../core/templates/admin/metaboxes/types/customtabs.php:97
+msgid "The content of the tab. (HTML is supported)"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/customtabs.php:67
+msgid "Add custom product tab"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/customtabs.php:108
+msgid "Do you want to remove the custom tab?"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/images.php:35
+#: ../core/templates/admin/metaboxes/types/images.php:59
+msgid "Delete image"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/images.php:39
+msgid "Upload new images"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/images.php:69
+msgid "Are you sure you want to remove this image?"
+msgstr ""
+
+#: ../core/templates/admin/metaboxes/types/responsivesliders.php:26
+msgid "None"
+msgstr ""
+
+#: ../core/templates/admin/panel/footer.php:13
+#: ../core/templates/admin/panel/form-start.php:14
+msgid "Save options"
+msgstr ""
+
+#: ../core/templates/admin/panel/header.php:15
+msgid ""
+"DOWNLOAD <strong>HIGH QUALITY</strong> WORDPRESS THEMES <strong>FOR FREE</"
+"strong>"
+msgstr ""
+
+#: ../core/templates/admin/panel/header.php:26
+#, php-format
+msgid ""
+"<strong>Need support?</strong> View the <a href=\"%s\">documentation</a>. "
+msgstr ""
+
+#: ../core/templates/admin/panel/header.php:26
+#, php-format
+msgid ""
+"If you want download this documentation and see it without any internet "
+"connection, you can download it by <a href=\"%s\" title=\"Download "
+"documentation\">this link</a>"
+msgstr ""
+
+#: ../core/templates/admin/panel/header.php:27
+msgid "Theme Changelog"
+msgstr ""
+
+#: ../core/templates/admin/post-type-unlimited/settings-config-items.php:11
+msgid "Add"
+msgstr ""
+
+#: ../core/templates/admin/post-type-unlimited/settings-config-items.php:14
+msgid "Click in a image to edit it."
+msgstr ""
+
+#: ../core/templates/admin/post-type-unlimited/settings-items.php:15
+msgid "Click here to edit this item"
+msgstr ""
+
+#: ../core/templates/admin/post-type-unlimited/settings-page.php:25
+msgid "Configuration"
+msgstr ""
+
+#: ../core/templates/admin/post-type-unlimited/settings-page.php:26
+#: ../theme/panel/theme-options/general-settings.php:34
+msgid "Typography"
+msgstr ""
+
+#: ../core/templates/admin/post-type-unlimited/settings-page.php:27
+msgid "Add/Edit"
+msgstr ""
+
+#: ../core/templates/admin/tinymce/lightbox.php:28 ../core/yit/TinyMCE.php:90
+msgid "Add shortcode"
+msgstr ""
+
+#: ../core/templates/admin/tinymce/lightbox.php:56
+#: ../core/templates/admin/tinymce/lightbox.php:57
+msgid "Filter Shortcodes"
+msgstr ""
+
+#: ../core/templates/admin/tinymce/lightbox.php:61
+msgid "Back to shortcodes list"
+msgstr ""
+
+#: ../core/templates/admin/tinymce/lightbox.php:110
+#: ../core/templates/admin/tinymce/lightbox.php:111
+msgid "Filter "
+msgstr ""
+
+#: ../core/templates/shortcodes/section-services.php:38
+#: ../theme/templates/shortcodes/section-services.php:50
+msgid "(this post does not have a featured image)"
+msgstr ""
+
+#: ../core/widgets/almost_all_categories.php:21
+msgid "Get list of categories, without categories excluded from options panel."
+msgstr ""
+
+#: ../core/widgets/almost_all_categories.php:26
+msgid "Almost Categories"
+msgstr ""
+
+#: ../core/widgets/almost_all_categories.php:32
+#: ../core/widgets/almost_all_categories.php:61
+#: ../core/yit/Submenu/Theme_option.php:61 ../theme/shortcodes.php:128
+#: ../theme/templates/sidebars/default.php:31
+#: ../theme/templates/single/sidebars/default.php:31
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:163
+msgid "Categories"
+msgstr ""
+
+#: ../core/widgets/almost_all_categories.php:39
+msgid "Widget Title"
+msgstr ""
+
+#: ../core/widgets/almost_all_categories.php:44
+msgid "Toggles the display of the current count of posts in each category"
+msgstr ""
+
+#: ../core/widgets/almost_all_categories.php:46
+#: ../theme/panel/theme-options/general-footer.php:34
+msgid "Yes"
+msgstr ""
+
+#: ../core/widgets/almost_all_categories.php:47
+#: ../theme/panel/theme-options/general-footer.php:35
+msgid "No"
+msgstr ""
+
+#: ../core/widgets/almost_all_categories.php:52
+msgid ""
+"Configure this widget on the Theme Option Admin, to exclude the categories "
+"from this list."
+msgstr ""
+
+#: ../core/widgets/contact_info.php:22 ../theme/widgets/contact_info.php:22
+msgid "Widget with a simple contact information."
+msgstr ""
+
+#: ../core/widgets/contact_info.php:27 ../theme/widgets/contact_info.php:27
+msgid "Contact Info"
+msgstr ""
+
+#: ../core/widgets/contact_info.php:36 ../theme/widgets/contact_info.php:38
+msgid "Contacts"
+msgstr ""
+
+#: ../core/widgets/contact_info.php:48 ../core/widgets/last_tweets.php:47
+#: ../core/yit/CPT_Unlimited.php:252 ../core/yit/Shortcodes.php:154
+#: ../core/yit/Shortcodes.php:265 ../core/yit/Shortcodes.php:376
+#: ../theme/widgets/contact_info.php:55
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:56
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:112
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:189
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:243
+msgid "Title"
+msgstr ""
+
+#: ../core/widgets/contact_info.php:54 ../core/yit/Shortcodes.php:159
+#: ../theme/widgets/contact_info.php:61
+msgid "Address"
+msgstr ""
+
+#: ../core/widgets/contact_info.php:60 ../core/yit/Shortcodes.php:170
+#: ../theme/widgets/contact_info.php:74 ../theme/widgets/contact_info.php:139
+#: ../theme/widgets/contact_info.php:147
+msgid "Phone"
+msgstr ""
+
+#: ../core/widgets/contact_info.php:66 ../core/yit/Shortcodes.php:181
+#: ../theme/widgets/contact_info.php:87 ../theme/widgets/contact_info.php:140
+#: ../theme/widgets/contact_info.php:148
+msgid "Mobile"
+msgstr ""
+
+#: ../core/widgets/contact_info.php:72 ../core/yit/Shortcodes.php:192
+#: ../theme/widgets/contact_info.php:100 ../theme/widgets/contact_info.php:141
+#: ../theme/widgets/contact_info.php:149
+msgid "Fax"
+msgstr ""
+
+#: ../core/widgets/contact_info.php:78
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:102
+#: ../theme/templates/comments/markup.php:76
+#: ../theme/widgets/contact_info.php:113 ../theme/widgets/contact_info.php:142
+#: ../theme/widgets/contact_info.php:150
+msgid "Email"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:21
+msgid "Retrieve the last tweets."
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:26 ../core/widgets/last_tweets.php:32
+msgid "Last Tweets"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:54 ../core/yit/Shortcodes.php:81
+msgid "Username"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:61
+msgid "Consumer key"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:68
+msgid "Consumer secret"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:75
+msgid "Access token"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:82
+msgid "Access token secret"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:89
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:209
+msgid "Limit"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:104
+msgid "Show Time"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:112
+msgid "Show Follow link"
+msgstr ""
+
+#: ../core/widgets/last_tweets.php:164
+msgid "Follow us on Twitter &rarr;"
+msgstr ""
+
+#: ../core/widgets/testimonials.php:22 ../theme/widgets/testimonials.php:9
+msgid ""
+"Add a slider testimonial on your widget which link a category to show the "
+"contents."
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:255
+msgid "Leave empty, if you don't want to use it."
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:262
+msgid "Subtitle"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:271 ../core/yit/CPT_Unlimited.php:281
+msgid "Text"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:274 ../core/yit/CPT_Unlimited.php:284
+msgid "Add here a content to show for this item"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:291
+msgid "Link"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:300 ../core/yit/Testimonial.php:135
+msgid "Image"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:303
+msgid "Change here the image above of this slide"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:360
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:361
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:362
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:363
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:364
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:365
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:366
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:367
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:437
+msgid "N. of Items"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:456
+msgid "Are you sure you want to remove this item?"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:457
+msgid "Update the page before to configure the element."
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:469
+msgid " Settings"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:1507
+msgid "Product creation failed, could not find original product:"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:1552
+msgid "(Copy)"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:1621
+msgid "Make a duplicate from this product"
+msgstr ""
+
+#: ../core/yit/CPT_Unlimited.php:1622
+msgid "Duplicate"
+msgstr ""
+
+#: ../core/yit/Dashboard.php:65
+msgid "Our latest themes"
+msgstr ""
+
+#: ../core/yit/Dashboard.php:66
+msgid "News from the YIT Blog"
+msgstr ""
+
+#: ../core/yit/Panel.php:133 ../core/yit/Panel.php:134
+msgid "Theme Options"
+msgstr ""
+
+#: ../core/yit/Panel.php:141 ../core/yit/Panel.php:142
+msgid "Sidebars"
+msgstr ""
+
+#: ../core/yit/Panel.php:149 ../core/yit/Panel.php:150
+msgid "Premium version"
+msgstr ""
+
+#: ../core/yit/Panel.php:157 ../core/yit/Panel.php:158
+msgid "Buy Themes"
+msgstr ""
+
+#: ../core/yit/Panel.php:229
+msgid "The options are been saved!"
+msgstr ""
+
+#: ../core/yit/Panel.php:230
+msgid "Element deleted correctly."
+msgstr ""
+
+#: ../core/yit/Panel.php:231
+msgid "The file has been imported."
+msgstr ""
+
+#: ../core/yit/Panel.php:232
+msgid "An error occurring while trying to import data. Please try again."
+msgstr ""
+
+#: ../core/yit/Panel.php:690
+msgid "Configuration has been saved."
+msgstr ""
+
+#: ../core/yit/Panel.php:695
+msgid ""
+"An error occurring while trying to save configuration. Please try again."
+msgstr ""
+
+#: ../core/yit/Panel.php:702
+msgid "Configuration name is missing."
+msgstr ""
+
+#: ../core/yit/Panel.php:715
+msgid "Configuration has been restored."
+msgstr ""
+
+#: ../core/yit/Panel.php:720
+msgid ""
+"An error occurring while trying to restore configuration. Please try again."
+msgstr ""
+
+#: ../core/yit/Panel.php:727
+msgid ""
+"An error occurring while trying to restore configuration. The backup seems "
+"to be damaged."
+msgstr ""
+
+#: ../core/yit/Panel.php:749
+msgid "Configuration has been deleted."
+msgstr ""
+
+#: ../core/yit/Panel.php:754
+msgid ""
+"An error occurring while trying to delete the configuration. Please try "
+"again."
+msgstr ""
+
+#: ../core/yit/Plugins.php:81
+#, php-format
+msgid " <a href='%s' class='how_to_update'>Learn how to update</a>"
+msgstr ""
+
+#: ../core/yit/Services.php:62 ../core/yit/Services.php:64
+#: ../core/yit/Services.php:66 ../core/yit/Services.php:85
+#: ../core/yit/Shortcodes.php:255 ../core/yit/Shortcodes.php:364
+msgid "Services"
+msgstr ""
+
+#: ../core/yit/Services.php:63 ../core/yit/Services.php:65
+msgid "Service"
+msgstr ""
+
+#: ../core/yit/Services.php:67
+msgid "Add New"
+msgstr ""
+
+#: ../core/yit/Services.php:68
+msgid "Add New Service"
+msgstr ""
+
+#: ../core/yit/Services.php:69 ../core/yit/Testimonial.php:69
+#: ../theme/templates/blog/big/markup.php:103
+msgid "Edit"
+msgstr ""
+
+#: ../core/yit/Services.php:70
+msgid "Edit Service"
+msgstr ""
+
+#: ../core/yit/Services.php:71
+msgid "New Service"
+msgstr ""
+
+#: ../core/yit/Services.php:72
+msgid "View"
+msgstr ""
+
+#: ../core/yit/Services.php:73
+msgid "View Service"
+msgstr ""
+
+#: ../core/yit/Services.php:74
+msgid "Search Services"
+msgstr ""
+
+#: ../core/yit/Services.php:75
+msgid "No Services"
+msgstr ""
+
+#: ../core/yit/Services.php:76
+msgid "No Services in the Trash"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:56
+msgid "Shortcodes"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:57 ../core/yit/Shortcodes.php:246
+msgid "Section"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:58
+msgid "Post Type"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:75
+msgid "Twitter"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:76
+msgid "Print a list of last tweets"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:86
+msgid "Consumer Key"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:91
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:96
+msgid "Access Token"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:101
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:106 ../core/yit/Shortcodes.php:140
+#: ../core/yit/Shortcodes.php:260 ../core/yit/Shortcodes.php:370
+#: ../theme/shortcodes.php:122
+msgid "N. of items"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:111
+msgid "CSS class"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:116
+msgid "Time"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:124
+msgid "Print line"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:125
+msgid "Print a line"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:134 ../core/yit/Submenu/Theme_option.php:49
+#: ../core/yit/Testimonial.php:62 ../core/yit/Testimonial.php:64
+#: ../core/yit/Testimonial.php:66 ../theme/shortcodes.php:116
+msgid "Testimonials"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:135 ../theme/shortcodes.php:117
+msgid "Show all post on testimonials post types"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:148
+msgid "Contact info"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:149
+msgid "Show a contact info"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:164 ../theme/widgets/contact_info.php:67
+msgid "Address icon"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:175 ../theme/widgets/contact_info.php:80
+msgid "Phone icon"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:186 ../theme/widgets/contact_info.php:93
+msgid "Mobile icon"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:197 ../theme/widgets/contact_info.php:106
+msgid "Fax icon"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:203
+msgid "E-mail"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:208
+msgid "E-mail icon"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:217
+msgid "Testimonials slider"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:218
+msgid "Show a slider with testimonials"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:223
+msgid "N. items"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:228 ../core/yit/Shortcodes.php:290
+#: ../core/yit/Shortcodes.php:350 ../core/yit/Shortcodes.php:391
+#: ../core/yit/Submenu/Tabs/Theme_option/Testimonials_Settings.php:76
+msgid "Limit words"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:233
+msgid "Speed (ms)"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:238
+msgid "Time out (ms)"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:247
+msgid "Print a specified section type."
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:275
+msgid "Category"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:280
+msgid "Portfolio"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:285 ../core/yit/Shortcodes.php:386
+msgid "Show excerpt"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:300
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:134
+msgid "Show comments"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:305
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:73
+msgid "Show date"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:310
+msgid "Show read more"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:315
+msgid "More text"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:317
+msgid "|| Read more"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:320
+msgid "Show overlay"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:325
+msgid "Show lightbox hover"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:330 ../core/yit/Shortcodes.php:401
+msgid "Show detail hover"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:335 ../core/yit/Shortcodes.php:406
+msgid "Show title hover"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:340
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:111
+#: ../theme/panel/theme-options/blog-settings.php:19
+msgid "Show categories"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:345
+msgid "Show featured"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:355
+msgid "Other posts label"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:357
+msgid "Other articles"
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:365
+msgid "Print a services type."
+msgstr ""
+
+#: ../core/yit/Shortcodes.php:371 ../theme/shortcodes.php:123
+msgid "Show all with -1"
+msgstr ""
+
+#: ../core/yit/Submenu/Sidebars.php:46
+msgid "Manager"
+msgstr ""
+
+#: ../core/yit/Submenu/Sidebars.php:51 ../core/yit/Submenu/Theme_option.php:47
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:273
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:282
+msgid "Pages"
+msgstr ""
+
+#: ../core/yit/Submenu/Sidebars.php:52
+msgid "Custom post types"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Custom_post_type.php:51
+msgid "Enable one sidebar for all Custom post type"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Custom_post_type.php:52
+msgid "Choose if you want show sidebar for all custom post type."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Custom_post_type.php:58
+msgid "All custom post type sidebars"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Custom_post_type.php:59
+msgid "Choose if you want to show a sidebar in a custom post type and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Custom_post_type.php:72
+msgid "Testimonials sidebar"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Custom_post_type.php:73
+msgid "Choose if you want to show a sidebar in Testimonials page and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Custom_post_type.php:86
+msgid "Services sidebar"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Custom_post_type.php:87
+msgid "Choose if you want to show a sidebar in services page and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:51
+msgid "Enable one sidebar for all"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:52
+msgid "Choose if you want show sidebar for all type of page."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:58
+msgid "All sidebars"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:59
+msgid "Choose if you want to show a sidebar and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:72
+msgid "Pages sidebar"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:73
+msgid "Choose if you want to show a sidebar in simple page and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:86
+msgid "Blog sidebar"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:87
+msgid "Choose if you want to show a sidebar in Blog page and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:100
+msgid "Archives sidebar"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:101
+msgid "Choose if you want to show a sidebar in Archives and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:114
+msgid "Categories sidebar"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:115
+msgid "Choose if you want to show a sidebar in Categories and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:128
+msgid "Search sidebar"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Sidebars/Manager_Pages.php:129
+msgid "Choose if you want to show a sidebar in Search and where."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:50
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:159
+msgid "Exclude categories"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:51
+msgid "Select witch categories you want exlude from blog."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:54
+msgid "Blog Page"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:54
+msgid "List cat. sidebar"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:59
+msgid "Show featured image"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:60
+msgid "Select if you want to show the featured image of the post."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:66
+msgid "Show featured image detail"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:67
+msgid ""
+"Select if you want to show the featured image of the post when in single "
+"page."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:74
+msgid "Select if you want to show the date of the post."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:80
+msgid "Date icon"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:81
+msgid "Select the icon to use for the date."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:92
+msgid "Show author"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:93
+msgid "Select if you want to show the author of the post."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:99
+msgid "Author icon"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:100
+msgid "Select the icon to use for the author."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:112
+msgid "Select if you want to show the categories of the post."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:122
+msgid "Categories icon"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:123
+msgid "Select the icon to use for categories."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:135
+msgid "Select if you want to show the comments number of the post."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:141
+msgid "Comments icon"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:142
+msgid "Select the icon to use for comments."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:153
+msgid "Show read more button"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:154
+msgid "Select if you want to show the read more button below the post."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:160
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:76
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:76
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:80
+msgid "Read more text"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:161
+msgid "Write what you want to show on more link"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:166
+msgid "&rarr; Read more"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:171
+msgid "Show tags"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:172
+msgid "Select if you want to show the tags of the post"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:178
+msgid "Show post formats on posts list"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php:179
+msgid ""
+"Select if you want to show the post formats also in the posts list and not "
+"only in the post detail page."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Custom_codes_Custom_script.php:52
+#: ../core/yit/Submenu/Theme_option.php:72
+#: ../theme/panel/theme-options/general-settings.php:25
+msgid "Custom script"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Custom_codes_Custom_script.php:53
+msgid "Here you can write all your custom Javascript"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Custom_codes_Custom_script.php:59
+msgid "Google Analytics code"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Custom_codes_Custom_script.php:60
+msgid "Here you can write all the code provided by Google Analytics"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Custom_codes_Custom_style.php:52
+#: ../core/yit/Submenu/Theme_option.php:71
+#: ../theme/panel/theme-options/general-settings.php:24
+msgid "Custom style"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Custom_codes_Custom_style.php:53
+msgid "Here you can write all your custom CSS"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:52
+msgid "Footer type"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:53
+msgid "Select the footer type for the theme."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:55
+msgid "Two Columns Footer"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:56
+msgid "Centered Footer"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:67
+msgid "Footer rows"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:68
+msgid ""
+"Select the number of widget area you'd like to use. Note: It will work only "
+"if you've chosen one of Big Footer types above."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:83
+msgid "Widgets in each footer row"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:84
+msgid ""
+"Select the number of widget you'd like to use in each footer widget area. "
+"Note: It will work only if you've chosen one of Big Footer types above."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:99
+msgid "Footer centered text"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:100
+msgid "Enter text used in centered footer. It can be HTML."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:110
+msgid "Footer copyright text Left"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:111
+msgid ""
+"Enter text used in the left side of the footer. It can be HTML. NB: not "
+"figured on \"centered footer\""
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:121
+msgid "Footer copyright text Right"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Footer.php:122
+msgid ""
+"Enter text used in the right side of the footer. It can be HTML. NB: not "
+"figured on \"centered footer\""
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:52
+msgid "Twitter API Configuration"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:53
+msgid ""
+"Insert your Twitter API created from <a href=\"https://dev.twitter.com/apps"
+"\">https://dev.twitter.com/apps</a>"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:58
+msgid "Twitter Username"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:59
+msgid "Enter the username of Twitter."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:64
+msgid "Twitter Consumer key"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:65
+msgid "Enter the Consumer key of Twitter."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:70
+msgid "Twitter Consumer secret"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:71
+msgid "Enter the Consumer secret of Twitter."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:76
+msgid "Twitter Access Token"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:77
+msgid "Enter the Access Token of Twitter."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:82
+msgid "Twitter Access Token secret"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Integration.php:83
+msgid "Enter the Access Token secret of Twitter."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:52
+#: ../theme/panel/theme-options/general-settings.php:55
+msgid "Custom logo"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:53
+#: ../theme/panel/theme-options/general-settings.php:56
+msgid "Want to use a custom image as logo?"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:59
+#: ../theme/panel/theme-options/general-settings.php:63
+msgid "Logo URL"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:60
+#: ../theme/panel/theme-options/general-settings.php:64
+msgid "Enter the URL to your logo image."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:70
+msgid "Logo tagline"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:71
+msgid "Specify if you want the tagline to show below the logo."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:79
+msgid "Favicon"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:80
+msgid ""
+"A favicon is a 16x16 pixel icon that represents your site; paste the URL to "
+"a icon image that you want to use as the image."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:89
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:90
+msgid "Choose if you want to show or not breadcrumbs on your website."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:98
+msgid "Layout type"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:99
+msgid "Choose the layout type."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:101
+msgid "Boxed"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:102
+msgid "Stretched"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:111
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:51
+msgid "Activate responsive"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/General_Settings.php:112
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:52
+msgid "Choose if you want to enable or not the responsive behavior."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:51
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:51
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:51
+msgid "Show page title"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:52
+msgid "Activate/Deactivate the page title on Archives."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:58
+msgid "Page archives title"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:59
+msgid "The title to use for the archives page."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:60
+msgid "Archive"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:65
+msgid "How show posts in Archives"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:66
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:66
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:70
+msgid "Choose a theme background image or upload your own."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:68
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:68
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:72
+msgid "Content"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:69
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:69
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:73
+msgid "Excerpt"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:77
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:77
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:81
+msgid "Customize the Read more text."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Archives.php:78
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:78
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:82
+msgid "Read more"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:52
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Category_page.php:52
+msgid "Activate/Deactivate the page title on Category."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:58
+msgid "Page categories title"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:59
+#, php-format
+msgid ""
+"The title to use for the categories page. Use <strong>%s</strong> where you "
+"want to show the category name."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:60
+#, php-format
+msgid "Archive for the %s Category"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Categories.php:65
+msgid "How show posts in Categories"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:52
+msgid "Activate/Deactivate the page title on Search."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:58
+msgid "Page searches title"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:59
+#, php-format
+msgid ""
+"The title to use for the searches page. Use <strong>%s</strong> where you "
+"want to show the search value."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:60
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Pages_Search.php:69
+msgid "How show posts in searches"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Testimonials_Settings.php:51
+msgid "Show Thumbnail"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Testimonials_Settings.php:52
+msgid "Activate/Deactivate the item thumbnail of testimonials."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Testimonials_Settings.php:58
+msgid "Link to testimonial detail page"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Testimonials_Settings.php:59
+msgid ""
+"Say if you want that the testimonial links, link to the testimonial detail "
+"page."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Testimonials_Settings.php:65
+msgid "Testimonial text type"
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Testimonials_Settings.php:66
+msgid "Select what kind of content you want to show."
+msgstr ""
+
+#: ../core/yit/Submenu/Tabs/Theme_option/Testimonials_Settings.php:77
+msgid "Select how many words to show."
+msgstr ""
+
+#: ../core/yit/Submenu/Theme_option.php:46
+msgid "General"
+msgstr ""
+
+#: ../core/yit/Submenu/Theme_option.php:48
+msgid "Blog"
+msgstr ""
+
+#: ../core/yit/Submenu/Theme_option.php:50
+msgid "Custom codes"
+msgstr ""
+
+#: ../core/yit/Submenu/Theme_option.php:56
+#: ../theme/panel/theme-options/misc.php:45
+msgid "Footer"
+msgstr ""
+
+#: ../core/yit/Submenu/Theme_option.php:57
+#: ../theme/panel/theme-options/misc.php:50
+msgid "Integration"
+msgstr ""
+
+#: ../core/yit/Submenu/Theme_option.php:60
+#: ../theme/templates/sidebars/default.php:24
+#: ../theme/templates/single/sidebars/default.php:24
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:275
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:284
+msgid "Archives"
+msgstr ""
+
+#: ../core/yit/Submenu/Theme_option.php:62
+#: ../theme/templates/searchform/post.php:17
+#: ../theme/templates/sidebars/default.php:19
+#: ../theme/templates/single/sidebars/default.php:19
+#: ../theme/widgets/search_mini.php:51
+msgid "Search"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:63 ../core/yit/Testimonial.php:65
+msgid "Testimonial"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:67 ../core/yit/Testimonial.php:68
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:70
+msgid "Edit Testimonials"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:71
+msgid "New Testimonial"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:72 ../core/yit/Testimonial.php:73
+msgid "View Testimonial"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:74
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:75
+msgid "No testimonials"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:76
+msgid "No testimonials in the Trash"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:136
+msgid "Story"
+msgstr ""
+
+#: ../core/yit/Testimonial.php:137
+msgid "Web Site"
+msgstr ""
+
+#: ../core/yit/TinyMCE.php:90
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../core/yit/TinyMCE.php:168 ../core/yit/TinyMCE.php:189
+msgid "Insert shortcode"
+msgstr ""
+
+#: ../theme/functions-template.php:513 ../theme/functions-template.php:528
+msgid "Open Lightbox"
+msgstr ""
+
+#: ../theme/functions-template.php:550
+msgid "Skills: "
+msgstr ""
+
+#: ../theme/functions-template.php:568
+msgid "Categories: "
+msgstr ""
+
+#: ../theme/functions-template.php:573
+msgid "Customer: "
+msgstr ""
+
+#: ../theme/functions-template.php:589
+msgid "Year: "
+msgstr ""
+
+#: ../theme/functions-theme.php:124
+msgid "Main Navigation"
+msgstr ""
+
+#: ../theme/functions-theme.php:125
+msgid "Welcome Menu"
+msgstr ""
+
+#: ../theme/functions-theme.php:136
+msgid "HOME"
+msgstr ""
+
+#: ../theme/functions-theme.php:253
+msgid "The widget area used in Footer With Sidebar section"
+msgstr ""
+
+#: ../theme/functions-theme.php:254
+msgid "The sidebar used in Footer With Sidebar section"
+msgstr ""
+
+#: ../theme/functions-theme.php:258
+#, php-format
+msgid "The widget area #%d used in Footer section"
+msgstr ""
+
+#: ../theme/functions-theme.php:403
+msgid "Back to top"
+msgstr ""
+
+#: ../theme/metaboxes.php:31
+msgid "Small quote"
+msgstr ""
+
+#: ../theme/metaboxes.php:32
+msgid "Insert the text to show with blockquote"
+msgstr ""
+
+#: ../theme/metaboxes.php:41
+msgid "Enable custom header background"
+msgstr ""
+
+#: ../theme/metaboxes.php:42
+msgid "Set YES if you want to customize the header background."
+msgstr ""
+
+#: ../theme/metaboxes.php:57
+msgid "Header background color"
+msgstr ""
+
+#: ../theme/metaboxes.php:58
+msgid "Select a background color for the header."
+msgstr ""
+
+#: ../theme/metaboxes.php:63
+msgid "Header background image"
+msgstr ""
+
+#: ../theme/metaboxes.php:64
+msgid "Select a background image for the header."
+msgstr ""
+
+#: ../theme/metaboxes.php:69
+msgid "Background repeat"
+msgstr ""
+
+#: ../theme/metaboxes.php:70
+msgid "Select the repeat mode for the background image."
+msgstr ""
+
+#: ../theme/metaboxes.php:73
+msgid "Repeat"
+msgstr ""
+
+#: ../theme/metaboxes.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../theme/metaboxes.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../theme/metaboxes.php:76
+msgid "No Repeat"
+msgstr ""
+
+#: ../theme/metaboxes.php:82
+msgid "Background position"
+msgstr ""
+
+#: ../theme/metaboxes.php:83
+msgid "Select the position for the background image."
+msgstr ""
+
+#: ../theme/metaboxes.php:86
+msgid "Center"
+msgstr ""
+
+#: ../theme/metaboxes.php:87
+msgid "Top left"
+msgstr ""
+
+#: ../theme/metaboxes.php:88
+msgid "Top center"
+msgstr ""
+
+#: ../theme/metaboxes.php:89
+msgid "Top right"
+msgstr ""
+
+#: ../theme/metaboxes.php:90
+msgid "Bottom left"
+msgstr ""
+
+#: ../theme/metaboxes.php:91
+msgid "Bottom center"
+msgstr ""
+
+#: ../theme/metaboxes.php:92
+msgid "Bottom right"
+msgstr ""
+
+#: ../theme/metaboxes.php:98
+msgid "Background attachment"
+msgstr ""
+
+#: ../theme/metaboxes.php:99
+msgid "Select the attachment for the background image."
+msgstr ""
+
+#: ../theme/metaboxes.php:102
+msgid "Scroll"
+msgstr ""
+
+#: ../theme/metaboxes.php:103
+msgid "Fixed"
+msgstr ""
+
+#: ../theme/metaboxes.php:111
+msgid "Border bottom of header"
+msgstr ""
+
+#: ../theme/metaboxes.php:112
+msgid ""
+"Select what you want to do for the border bottom of the header, for this "
+"page."
+msgstr ""
+
+#: ../theme/metaboxes.php:115
+msgid "Enable"
+msgstr ""
+
+#: ../theme/panel/theme-options/blog-settings.php:20
+msgid "Select if you want to show the categories links."
+msgstr ""
+
+#: ../theme/panel/theme-options/general-footer.php:19
+msgid "Footer layout"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-footer.php:20
+msgid "Select the footer layout for the theme."
+msgstr ""
+
+#: ../theme/panel/theme-options/general-footer.php:31
+msgid "Newsletter form"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-footer.php:32
+msgid "Select if you want show the newsletter form on top of footer."
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:23
+msgid "Panel Import"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:35
+msgid "Colors"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:76
+msgid "Logo URL (Retina)"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:77
+msgid ""
+"Enter the URL to your logo image. The retina image should be exactly twice "
+"the size of the original."
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:89
+msgid "Search type header"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:90
+msgid ""
+"Select the type of posts you want to search with searchform of the header."
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:92
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:276
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:285
+msgid "Products"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:93
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:274
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:283
+msgid "Posts"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:94
+msgid "All"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:102
+msgid "Remove script version"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:103
+msgid ""
+"This is an advanced setting that allows you remove query strings from static "
+"contents (eg. the ?v=3.5.1 string from CSS and JS files). <a href=\"http://"
+"gtmetrix.com/remove-query-strings-from-static-resources.html\">More info</a>"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:110
+msgid "Show \"Back to Top\" button"
+msgstr ""
+
+#: ../theme/panel/theme-options/general-settings.php:111
+msgid "Enable this option to show the \"Back to Top\" button in all pages"
+msgstr ""
+
+#: ../theme/panel/theme-options/misc.php:17
+#: ../theme/panel/theme-options/misc.php:26
+msgid "Background 01"
+msgstr ""
+
+#: ../theme/panel/theme-options/misc.php:18
+#: ../theme/panel/theme-options/misc.php:27
+msgid "Background 02"
+msgstr ""
+
+#: ../theme/panel/theme-options/misc.php:19
+#: ../theme/panel/theme-options/misc.php:28
+msgid "Custom background"
+msgstr ""
+
+#: ../theme/panel/theme-options/misc.php:35
+msgid "Shop"
+msgstr ""
+
+#: ../theme/panel/theme-options/misc.php:53
+msgid "General settings"
+msgstr ""
+
+#: ../theme/panel/theme-options/misc.php:54
+msgid "Products page"
+msgstr ""
+
+#: ../theme/panel/theme-options/misc.php:55
+msgid "Products details page"
+msgstr ""
+
+#: ../theme/panel/theme-options/misc.php:56
+msgid "Category page"
+msgstr ""
+
+#: ../theme/panel/theme-options/pages-404.php:21
+msgid "Hide header and footer"
+msgstr ""
+
+#: ../theme/panel/theme-options/pages-404.php:22
+msgid "Say if you want to hide the header and footer in the 404 page."
+msgstr ""
+
+#: ../theme/shortcodes.php:36 ../theme/shortcodes.php:60
+msgid "Items per row"
+msgstr ""
+
+#: ../theme/shortcodes.php:39 ../theme/shortcodes.php:63
+msgid "2 items"
+msgstr ""
+
+#: ../theme/shortcodes.php:40 ../theme/shortcodes.php:64
+msgid "3 items"
+msgstr ""
+
+#: ../theme/shortcodes.php:41 ../theme/shortcodes.php:65
+msgid "4 items"
+msgstr ""
+
+#: ../theme/shortcodes.php:42 ../theme/shortcodes.php:66
+msgid "6 items"
+msgstr ""
+
+#: ../theme/shortcodes.php:48 ../theme/shortcodes.php:72
+msgid "Show Button"
+msgstr ""
+
+#: ../theme/shortcodes.php:54 ../theme/shortcodes.php:78
+msgid "Button Text"
+msgstr ""
+
+#: ../theme/shortcodes.php:84 ../theme/shortcodes.php:91
+#: ../theme/shortcodes.php:98
+msgid "Title icon URL"
+msgstr ""
+
+#: ../theme/shortcodes.php:86 ../theme/shortcodes.php:93
+#: ../theme/shortcodes.php:100
+msgid "Select the icon to use for the title."
+msgstr ""
+
+#: ../theme/shortcodes.php:129
+msgid "Select the categories of posts to show"
+msgstr ""
+
+#: ../theme/shortcodes.php:164 ../theme/shortcodes.php:180
+msgid "All categories"
+msgstr ""
+
+#: ../theme/templates/404/404.php:25
+msgid "OPS! It seems you missed a page"
+msgstr ""
+
+#: ../theme/templates/404/404.php:26
+#, php-format
+msgid ""
+"We are sorry but the page you are looking for does not exist.<br />You could "
+"<a href=\"%s\">return to the home page</a> or search using the search box "
+"below."
+msgstr ""
+
+#: ../theme/templates/404/404.php:35
+msgid "404 Error"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:3
+msgid "Text Input"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:4
+msgid "Checkbox"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:5
+msgid "Select"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:6
+msgid "Textarea"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:7
+msgid "Radio Input"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:8
+msgid "Password Field"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:9
+msgid "File Upload"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:16
+msgid "Click to toggle"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:23
+msgid "Title Field"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:26
+msgid "Insert the title of field."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:31
+msgid "Data Name"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:34
+msgid ""
+"REQUIRED: The identification name of this field, that you can insert into "
+"body email configuration. <strong>Note:</strong>Use only lowercase "
+"characters and underscores."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:39
+msgid "Type field"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:46
+msgid "Select the type of this field."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:51
+msgid "Checked"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:54
+msgid "Select this if you want this field already checked."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:59
+msgid "Add options "
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:60
+msgid "Add option"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:64
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:76
+msgid "Selected"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:66
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:76
+msgid "Delete option"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:86
+msgid "Message Error"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:89
+msgid "Insert the error message for validation."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:97
+msgid "Select this if it must be required."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:105
+msgid "Select this if it must be a valid email."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:110
+msgid "Reply To"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:113
+msgid "Select this if it's the email where you can reply."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:118
+msgid "Class"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:121
+msgid ""
+"Insert an additional class(es) (separateb by comma) for more personalization."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:126
+msgid "Icon"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:129
+msgid "Insert an icon for more personalization."
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:134
+msgid "Width"
+msgstr ""
+
+#: ../theme/templates/admin/post-type-unlimited/settings-contactform-field.php:155
+msgid "Choose how much long will be the field."
+msgstr ""
+
+#: ../theme/templates/blog/big/markup.php:52
+#: ../woocommerce/global/breadcrumb.php:220
+#: ../woocommerce_2.5.x/global/breadcrumb.php:220
+msgid "Author:"
+msgstr ""
+
+#: ../theme/templates/blog/big/markup.php:58
+msgid "Categories:"
+msgstr ""
+
+#: ../theme/templates/blog/big/markup.php:66
+msgid "Comments: "
+msgstr ""
+
+#: ../theme/templates/blog/big/markup.php:71
+msgid "Tags: "
+msgstr ""
+
+#: ../theme/templates/blog/big/markup.php:79
+#: ../theme/templates/services/service.php:32
+msgid "(this post does not have a title)"
+msgstr ""
+
+#: ../theme/templates/comments/comment.php:23
+msgid "Pingback:"
+msgstr ""
+
+#: ../theme/templates/comments/comment.php:23
+msgid "(Edit)"
+msgstr ""
+
+#: ../theme/templates/comments/comment.php:46
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../theme/templates/comments/comment.php:56
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../theme/templates/comments/comment.php:65
+msgid "Reply"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:30
+msgid "No comments"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:30
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:30
+msgid "<span>%</span> comments"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:77
+msgid "E-Mail"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:78
+#: ../theme/templates/comments/markup.php:79
+msgid "Website"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:84
+msgid "Your comment"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:84
+msgid "Comment"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:85
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:86
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:91
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:92
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:93
+msgid "Cancel reply"
+msgstr ""
+
+#: ../theme/templates/comments/markup.php:94
+msgid "POST COMMENT"
+msgstr ""
+
+#: ../theme/templates/comments/navigation.php:16
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../theme/templates/comments/navigation.php:17
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../theme/templates/comments/password-required.php:16
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../theme/templates/comments/trackbacks.php:22
+msgid "Trackbacks and pingbacks"
+msgstr ""
+
+#: ../theme/templates/comments/trackbacks.php:38
+msgid "No trackback or pingback available for this article."
+msgstr ""
+
+#: ../theme/templates/header/head.php:78
+msgid "[x] Close"
+msgstr ""
+
+#: ../theme/templates/header/head.php:79
+msgid "[x] Open"
+msgstr ""
+
+#: ../theme/templates/header/head.php:109
+msgid "VIEW NAVIGATION"
+msgstr ""
+
+#: ../theme/templates/header/page-meta.php:46
+msgid "F jS, Y"
+msgstr ""
+
+#: ../theme/templates/header/page-meta.php:49
+msgid "F Y"
+msgstr ""
+
+#: ../theme/templates/header/page-meta.php:52
+msgid "Y"
+msgstr ""
+
+#: ../theme/templates/header/page-meta.php:55
+msgid "Author archive"
+msgstr ""
+
+#: ../theme/templates/header/page-meta.php:67
+msgid "Blog Archive"
+msgstr ""
+
+#: ../theme/templates/loop/archives.php:40
+#, php-format
+msgid "Last %d posts"
+msgstr ""
+
+#: ../theme/templates/loop/archives.php:56
+msgid "Archives by Month"
+msgstr ""
+
+#: ../theme/templates/loop/archives.php:61
+msgid "Archives by Subject"
+msgstr ""
+
+#: ../theme/templates/loop/loop.php:59
+msgid "Not Found"
+msgstr ""
+
+#: ../theme/templates/loop/loop.php:61
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../theme/templates/loop/loop.php:72
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../theme/templates/loop/loop.php:73
+msgid "&laquo; Back"
+msgstr ""
+
+#: ../theme/templates/searchform/post.php:16
+msgid "Search  here..."
+msgstr ""
+
+#: ../theme/templates/services/service.php:27
+#: ../theme/templates/testimonial/testimonial.php:13
+msgid "(this post has no title)"
+msgstr ""
+
+#: ../theme/templates/sidebars/default.php:47
+#: ../theme/templates/single/sidebars/default.php:47
+msgid "Blogroll"
+msgstr ""
+
+#: ../theme/widgets/YIT_Widget_Cart.php:27
+msgid ""
+"Display the user's Cart in the header of the page. Note: the widget can be "
+"used only in the header."
+msgstr ""
+
+#: ../theme/widgets/YIT_Widget_Cart.php:29
+msgid "YIT Cart"
+msgstr ""
+
+#: ../theme/widgets/YIT_Widget_Cart.php:59 ../theme/woocommerce.php:1223
+msgid "Items"
+msgstr ""
+
+#: ../theme/widgets/YIT_Widget_Cart.php:59 ../theme/woocommerce.php:1223
+msgid "Item"
+msgstr ""
+
+#: ../theme/widgets/YIT_Widget_Cart.php:66
+msgid "No products in the cart."
+msgstr ""
+
+#: ../theme/widgets/YIT_Widget_Cart.php:115
+msgid ""
+"Display a dropdown cart for your WooCommerce store. This widget can be used "
+"only in Topbar Right Sidebar."
+msgstr ""
+
+#: ../theme/widgets/contact_info.php:119
+msgid "Email icon"
+msgstr ""
+
+#: ../theme/widgets/contact_info.php:138 ../theme/widgets/contact_info.php:146
+msgid "Location"
+msgstr ""
+
+#: ../theme/widgets/search_mini.php:25
+msgid "A mini search form for your site"
+msgstr ""
+
+#: ../theme/widgets/search_mini.php:26
+msgid "Mini Search"
+msgstr ""
+
+#: ../theme/widgets/search_mini.php:34
+msgid "search for products"
+msgstr ""
+
+#: ../theme/widgets/search_mini.php:35
+msgid "search for..."
+msgstr ""
+
+#: ../theme/woocommerce.php:300
+msgid "No filters to apply!"
+msgstr ""
+
+#: ../theme/woocommerce.php:315
+msgid "ADDED!"
+msgstr ""
+
+#: ../theme/woocommerce.php:519
+msgid "Product Inquiry"
+msgstr ""
+
+#: ../theme/woocommerce.php:650
+msgid "View Wishlist"
+msgstr ""
+
+#: ../theme/woocommerce.php:827
+msgid "Active responsive images"
+msgstr ""
+
+#: ../theme/woocommerce.php:828
+msgid ""
+"Active this to make the images responsive and adaptable to the layout grid."
+msgstr ""
+
+#: ../theme/woocommerce.php:874
+msgid "From"
+msgstr ""
+
+#: ../theme/woocommerce.php:881
+msgid "To"
+msgstr ""
+
+#: ../theme/woocommerce.php:938
+msgid "Show all products (Sale Filter)"
+msgstr ""
+
+#: ../theme/woocommerce.php:939
+msgid "Show products on sale"
+msgstr ""
+
+#: ../theme/woocommerce.php:940
+msgid "Show products not on sale"
+msgstr ""
+
+#: ../theme/woocommerce.php:955 ../theme/woocommerce.php:981
+#: ../theme/woocommerce.php:1010 ../theme/woocommerce.php:1085
+#: ../theme/woocommerce.php:1101 ../theme/woocommerce.php:1116
+msgid "SSN"
+msgstr ""
+
+#: ../theme/woocommerce.php:956 ../theme/woocommerce.php:982
+#: ../theme/woocommerce.php:1086 ../theme/woocommerce.php:1102
+msgctxt "placeholder"
+msgid "SSN"
+msgstr ""
+
+#: ../theme/woocommerce.php:965 ../theme/woocommerce.php:991
+#: ../theme/woocommerce.php:1007
+msgid "VAT"
+msgstr ""
+
+#: ../theme/woocommerce.php:966 ../theme/woocommerce.php:992
+msgctxt "placeholder"
+msgid "VAT"
+msgstr ""
+
+#: ../theme/woocommerce.php:1034 ../theme/woocommerce.php:1051
+#: ../theme/woocommerce.php:1066
+msgid "VAT/SSN"
+msgstr ""
+
+#: ../theme/woocommerce.php:1035 ../theme/woocommerce.php:1052
+msgctxt "placeholder"
+msgid "VAT or SSN"
+msgstr ""
+
+#: ../theme/woocommerce.php:1475
+msgid "No results"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Header.php:52
+msgid "Show Top Bar"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Header.php:53
+msgid "Select if you want to show the Top Bar above the header."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:58
+msgid "Show left side of topbar"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:59
+msgid "Choose if you want to show the left side of topbar in mobile version."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:65
+msgid "Show right side of topbar"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:66
+msgid "Choose if you want to show the right side of topbar in mobile version."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:72
+msgid "Show logo tagline in mobile"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:73
+msgid "Choose if you want to show the tagline of logo."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:79
+msgid "Show the \"Header Sidebar\""
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:80
+msgid "Choose if you want to show the header search on mobile version."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:86
+msgid "Show header search in mobile"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:87
+msgid "Choose if you want to show the search form of header."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:93
+msgid "Hover opened, in product (on mobile)"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:94
+msgid "Take opened the hover in products, when you are in mobile screens."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:100
+msgid "Force \"Classic\" style in the products list, on mobile."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Responsive.php:101
+msgid ""
+"Force the \"Classic\" style in the products list, when you are in mobile."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:50
+msgid "Page Settings"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:63
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:119
+msgid "Order By"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:67
+msgid "Pages alphabetically (by title)"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:68
+msgid "Pages by Page Order"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:69
+msgid "Creation time"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:70
+msgid "Time last modified"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:71
+msgid "Numeric Page ID"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:72
+msgid "Page author's numeric ID"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:73
+msgid "Alphabetically by Post slug"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:79
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:142
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:225
+msgid "Order"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:83
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:146
+msgid "Sort from lowest to highest"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:84
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:147
+msgid "Sort from highest to lowest"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:90
+msgid "Exclude Pages"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:91
+msgid ""
+"Define a comma-separated list of Page IDs to be excluded from the list "
+"(example: 'exclude=3,7,31')"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:97
+msgid "Depth"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:98
+msgid ""
+"This parameter controls how many levels in the hierarchy of pages are to be "
+"included in the list generated. The default value is 0 (display all pages, "
+"including all sub-pages)"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:106
+msgid "Posts Settings"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:123
+msgid "Sort by post date"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:124
+msgid "Sort by the numeric author IDs"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:125
+msgid "Sort by the numeric category IDs"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:126
+msgid "Sort by content"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:127
+msgid "Sort by creation date"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:128
+msgid "Sort by numeric Post ID"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:129
+msgid "Sort by last modified date"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:130
+msgid "Sort by stub"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:131
+msgid "Sort by parent ID"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:132
+msgid "Sort by password"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:133
+msgid "Randomly sort results"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:134
+msgid "Sort by status"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:135
+msgid "Sort by title"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:136
+msgid "Sort by type"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:153
+msgid "Exclude Posts"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:154
+msgid ""
+"Define a comma-separated list of Posts IDs to be excluded from the list "
+"(example: 'exclude=3,7,31')"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:160
+msgid "Select which categories you want to exclude."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:168
+msgid "Show Date"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:169
+msgid "Display the post date"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:175
+msgid "Number of items"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:176
+msgid "Number of items to show in each category. (-1 means no limit)"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:183
+msgid "Archive Settings"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:197
+msgid "The type of archive list to display."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:200
+msgid "Yearly"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:201
+msgid "Monthly"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:202
+msgid "Daily"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:203
+msgid "Weekly"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:218
+msgid "Post Count"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:219
+msgid "Display number of posts in an archive or do not."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:229
+msgid "Ascending order (A-Z)"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:230
+msgid "Descending order (Z-A)"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:237
+msgid "Products Settings"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:238
+msgid "This settings will applied only if Woocommerce is enabled."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:250
+msgid "Number of products"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:251
+msgid "The number of products to show in each category. (-1 means no limit)"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:259
+msgid "Sitemap Settings"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:260
+msgid ""
+"Choose the elements to include/exclude in your sitemap and the order in "
+"which they will be displayed"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:265
+msgid "Sitemap Order"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:266
+msgid ""
+"Drag and drop elements between the lists to determine what you want to "
+"display and the order."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:268
+msgid "Show"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/General_Sitemap.php:269
+msgid "Hide"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Category_page.php:51
+msgid "Show category page title"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Category_page.php:58
+msgid "Show image in category page"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Category_page.php:59
+msgid "Activate/Deactivate the image on Category."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:51
+msgid "Enable shop features"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:52
+msgid ""
+"Say if you want to enable the shop features. If the option is disabled, "
+"products cannot be added to cart."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:58
+msgid "Products per page"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:59
+msgid "Say how many products to show per page, in the shop pages."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:65
+msgid "Enable VAT field"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:66
+msgid "Choose if you want to enable VAT field for Customer."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:72
+msgid "Enable SSN field"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:73
+msgid "Choose if you want to enable SSN field for Customer."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:79
+msgid "Restore fields order"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:80
+msgid "Restore the order of fields as in previous Woocommerce version."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:86
+msgid "Count all items in the cart"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:87
+msgid ""
+"It changes the way like the cart in the header count items. If ON, everytime "
+"you add an item to the cart (also if the item already is in the cart) the "
+"quantity will be increased. If OFF, multiple items of the same type will be "
+"counted only one time."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:93
+msgid "Set \"Add to Cart\" text"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:94
+msgid ""
+"Choose the text to display within the add to cart button. This will not work "
+"for external products. For them it's handled directly in the product admin "
+"page."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_General_settings.php:95
+#: ../woocommerce/loop/add-to-cart.php:59
+#: ../woocommerce/single-product/add-to-cart/grouped.php:45
+#: ../woocommerce/single-product/add-to-cart/grouped.php:80
+#: ../woocommerce/single-product/add-to-cart/simple.php:54
+#: ../woocommerce_2.5.x/loop/add-to-cart.php:59
+#: ../woocommerce_2.5.x/single-product/add-to-cart/grouped.php:45
+#: ../woocommerce_2.5.x/single-product/add-to-cart/grouped.php:80
+#: ../woocommerce_2.5.x/single-product/add-to-cart/simple.php:54
+msgid "Add to cart"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:52
+msgid "Say if you want the breadcrumb in the product detail page."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:58
+msgid "Show products details page title"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:59
+msgid "Activate/Deactivate the page title on Products details."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:65
+msgid "Show price"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:66
+msgid "Select if you want to show a the price on the products list."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:72
+msgid "Show button add to cart"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:73
+msgid "Select if you want to show the purchase button."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:78
+msgid "Related products"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:79
+msgid "Manage the related products."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:84
+msgid "Show related products"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:85
+msgid "Select if you want to display Related Products."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:91
+msgid "Custom Related Products number"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:92
+msgid ""
+"Select if you want to customize the number of Related Products. Note: if you "
+"are already using a custom filter to do that, please don't enable this "
+"option."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:102
+msgid "Number of Related Products"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:103
+msgid ""
+"Select the total numbers of the related products displayed, on the product "
+"detail page. Note: related products are displayed randomly from Woocommerce. "
+"Sometimes the number of related products could be less than the number of "
+"items selected. This number depends from the query plugin, not from the "
+"theme."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:114
+msgid "Show product metas (categories and tags)"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_details_page.php:115
+msgid ""
+"Say if you want to show product metas in your single product page. It also "
+"remove Bands if you are using WooCommerce Brands Addon."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:51
+msgid "Show products page title"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:52
+msgid "Activate/Deactivate the page title on Products."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:59
+msgid "Say if you want the breadcrumb in the shop pages."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:65
+msgid "Show product title"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:66
+msgid "Say if you want to show the product title."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:72
+msgid "Show product price"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:73
+msgid "Say if you want to show the product price."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:79
+msgid "Show product rating"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:80
+msgid "Say if you want to show the product rating."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:86
+msgid "Show add to cart icon"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:87
+msgid "Say if you want to show the details icon."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:93
+msgid "Added icon"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:94
+msgid ""
+"Change the icon for the Added feedback message, when you add to cart a "
+"product in AJAX."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:104
+msgid "Force open hover"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:105
+msgid "Force to open the hover box."
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:111
+msgid "Featured image size"
+msgstr ""
+
+#: ../theme/yit/Submenu/Tabs/Theme_option/Shop_Products_page.php:112
+msgid "Set the image size for featured products"
+msgstr ""
+
+#: ../woocommerce/admin/custom-onsale.php:14
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:14
+msgid "Active custom onsale icon"
+msgstr ""
+
+#: ../woocommerce/admin/custom-onsale.php:17
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:17
+msgid "Choose a preset"
+msgstr ""
+
+#: ../woocommerce/admin/custom-onsale.php:26
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:26
+msgid "Custom"
+msgstr ""
+
+#: ../woocommerce/admin/custom-onsale.php:27
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:27
+msgid ""
+"(if you have choosen \"Custom\", upload your image in the option below, "
+"suggested size: 75x75px)"
+msgstr ""
+
+#: ../woocommerce/admin/custom-onsale.php:33
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:33
+msgid "Custom onsale icon URL"
+msgstr ""
+
+#: ../woocommerce/admin/custom-onsale.php:36
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:36
+msgid "File path/URL"
+msgstr ""
+
+#: ../woocommerce/admin/custom-onsale.php:37
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:37
+msgid "Choose a file"
+msgstr ""
+
+#: ../woocommerce/admin/custom-onsale.php:37
+#: ../woocommerce_2.5.x/admin/custom-onsale.php:37
+msgid "Insert file URL"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:81
+#: ../woocommerce_2.5.x/global/breadcrumb.php:81
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:109
+#: ../woocommerce/global/breadcrumb.php:211
+#: ../woocommerce_2.5.x/global/breadcrumb.php:109
+#: ../woocommerce_2.5.x/global/breadcrumb.php:211
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:215
+#: ../woocommerce_2.5.x/global/breadcrumb.php:215
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/list-or-grid.php:20
+#: ../woocommerce_2.5.x/global/list-or-grid.php:20
+msgid "Switch to grid view"
+msgstr ""
+
+#: ../woocommerce/global/list-or-grid.php:20
+#: ../woocommerce_2.5.x/global/list-or-grid.php:20
+msgid "grid"
+msgstr ""
+
+#: ../woocommerce/global/list-or-grid.php:21
+#: ../woocommerce_2.5.x/global/list-or-grid.php:21
+msgid "Switch to list view"
+msgstr ""
+
+#: ../woocommerce/global/list-or-grid.php:21
+#: ../woocommerce_2.5.x/global/list-or-grid.php:21
+msgid "list"
+msgstr ""
+
+#: ../woocommerce/global/page-meta.php:17
+#: ../woocommerce_2.5.x/global/page-meta.php:17
+msgid "Back to the shop"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:29
+#: ../woocommerce_2.5.x/loop/add-to-cart.php:29
+msgid "Out Of Stock"
+msgstr ""
+
+#: ../woocommerce/loop/other-actions.php:45
+#: ../woocommerce_2.5.x/loop/other-actions.php:45
+msgid "Share it"
+msgstr ""
+
+#: ../woocommerce/loop/other-actions.php:46
+#: ../woocommerce_2.5.x/loop/other-actions.php:46
+msgid "Share on:"
+msgstr ""
+
+#: ../woocommerce/loop/pagination.php:19
+#: ../woocommerce_2.5.x/loop/pagination.php:19
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../woocommerce/loop/pagination.php:20
+#: ../woocommerce_2.5.x/loop/pagination.php:20
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:40
+#: ../woocommerce_2.5.x/loop/sale-flash.php:40
+msgid "On sale!"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/quantity.php:13
+#: ../woocommerce_2.5.x/single-product/add-to-cart/quantity.php:13
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/simple.php:38
+#: ../woocommerce/single-product/add-to-cart/yit-single-variation.php:16
+#: ../woocommerce_2.5.x/single-product/add-to-cart/simple.php:38
+#: ../woocommerce_2.5.x/single-product/add-to-cart/yit-single-variation.php:16
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:31
+#: ../woocommerce_2.5.x/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:42
+#: ../woocommerce_2.5.x/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/yit-single-variation.php:32
+#: ../woocommerce_2.5.x/single-product/add-to-cart/yit-single-variation.php:32
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:19
+#: ../woocommerce_2.5.x/single-product/meta.php:19
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:24
+#: ../woocommerce_2.5.x/single-product/meta.php:24
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/meta.php:29
+#: ../woocommerce_2.5.x/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/product-attributes.php:28
+#: ../woocommerce_2.5.x/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:37
+#: ../woocommerce_2.5.x/single-product/product-attributes.php:37
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:60
+#: ../woocommerce_2.5.x/single-product/related.php:39
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:41
+#: ../woocommerce_2.5.x/single-product/up-sells.php:41
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce_2.5.x/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce_2.5.x/single-product/review.php:39
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce_2.5.x/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce_2.5.x/single-product/review.php:57
+msgid "verified owner"
+msgstr ""
